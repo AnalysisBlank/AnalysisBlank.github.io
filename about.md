@@ -9,7 +9,5 @@ title: 关于我
 <p>
 了解一点前端、后台，目前正在学习android，如果有志同道合一起学习的朋友可以联系我，我们一同进步。
 
-{% include comments.html %}
-
 
 
